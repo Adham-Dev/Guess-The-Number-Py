@@ -7,5 +7,5 @@ To install this game you should do this:
 3. Run guess in Terminal and enjoy the game 
 
 to report a but contact me on:
-Discord : doma.dev
+Discord : doma.dev <br>
 Email : iamnotadham@gmail.com
